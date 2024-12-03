@@ -1,0 +1,28 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+
+# Django-specific files
+*.log
+*.pot
+*.py[cod]
+
+# Ignore virtual environments and environment settings
+.env/
+venv/
+env/
+.venv/
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Ignore media files (if any)
+media/
+
+# Ignore backup files (if any)
+*.bak
+*.swp
